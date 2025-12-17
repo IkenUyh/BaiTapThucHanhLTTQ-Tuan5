@@ -1,0 +1,11 @@
+E:\Code\Visual Studio File\BaiTapThucHanhLTTQ-Tuan5\BaiTap11\bin\Debug\BaiTap11.exe.config
+E:\Code\Visual Studio File\BaiTapThucHanhLTTQ-Tuan5\BaiTap11\bin\Debug\BaiTap11.exe
+E:\Code\Visual Studio File\BaiTapThucHanhLTTQ-Tuan5\BaiTap11\bin\Debug\BaiTap11.pdb
+E:\Code\Visual Studio File\BaiTapThucHanhLTTQ-Tuan5\BaiTap11\obj\Debug\BaiTap11.csproj.AssemblyReference.cache
+E:\Code\Visual Studio File\BaiTapThucHanhLTTQ-Tuan5\BaiTap11\obj\Debug\BaiTap11.FrmBaiThi.resources
+E:\Code\Visual Studio File\BaiTapThucHanhLTTQ-Tuan5\BaiTap11\obj\Debug\BaiTap11.Properties.Resources.resources
+E:\Code\Visual Studio File\BaiTapThucHanhLTTQ-Tuan5\BaiTap11\obj\Debug\BaiTap11.csproj.GenerateResource.cache
+E:\Code\Visual Studio File\BaiTapThucHanhLTTQ-Tuan5\BaiTap11\obj\Debug\BaiTap11.csproj.CoreCompileInputs.cache
+E:\Code\Visual Studio File\BaiTapThucHanhLTTQ-Tuan5\BaiTap11\obj\Debug\BaiTap11.exe
+E:\Code\Visual Studio File\BaiTapThucHanhLTTQ-Tuan5\BaiTap11\obj\Debug\BaiTap11.pdb
+E:\Code\Visual Studio File\BaiTapThucHanhLTTQ-Tuan5\BaiTap11\obj\Debug\BaiTap11.exe.config

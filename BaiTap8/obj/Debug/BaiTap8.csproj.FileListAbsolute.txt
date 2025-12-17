@@ -1,0 +1,11 @@
+E:\Code\Visual Studio File\BaiTapThucHanhLTTQ-Tuan5\BaiTap8\bin\Debug\BaiTap8.exe.config
+E:\Code\Visual Studio File\BaiTapThucHanhLTTQ-Tuan5\BaiTap8\bin\Debug\BaiTap8.exe
+E:\Code\Visual Studio File\BaiTapThucHanhLTTQ-Tuan5\BaiTap8\bin\Debug\BaiTap8.pdb
+E:\Code\Visual Studio File\BaiTapThucHanhLTTQ-Tuan5\BaiTap8\obj\Debug\BaiTap8.csproj.AssemblyReference.cache
+E:\Code\Visual Studio File\BaiTapThucHanhLTTQ-Tuan5\BaiTap8\obj\Debug\BaiTap8.Properties.Resources.resources
+E:\Code\Visual Studio File\BaiTapThucHanhLTTQ-Tuan5\BaiTap8\obj\Debug\BaiTap8.csproj.GenerateResource.cache
+E:\Code\Visual Studio File\BaiTapThucHanhLTTQ-Tuan5\BaiTap8\obj\Debug\BaiTap8.csproj.CoreCompileInputs.cache
+E:\Code\Visual Studio File\BaiTapThucHanhLTTQ-Tuan5\BaiTap8\obj\Debug\BaiTap8.exe
+E:\Code\Visual Studio File\BaiTapThucHanhLTTQ-Tuan5\BaiTap8\obj\Debug\BaiTap8.pdb
+E:\Code\Visual Studio File\BaiTapThucHanhLTTQ-Tuan5\BaiTap8\obj\Debug\BaiTap8.exe.config
+E:\Code\Visual Studio File\BaiTapThucHanhLTTQ-Tuan5\BaiTap8\obj\Debug\BaiTap8.frmAnalogClockApp.resources

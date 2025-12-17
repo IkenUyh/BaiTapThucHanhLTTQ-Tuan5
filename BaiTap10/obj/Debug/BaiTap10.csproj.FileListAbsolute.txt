@@ -1,0 +1,11 @@
+E:\Code\Visual Studio File\BaiTapThucHanhLTTQ-Tuan5\BaiTap10\bin\Debug\BaiTap10.exe.config
+E:\Code\Visual Studio File\BaiTapThucHanhLTTQ-Tuan5\BaiTap10\bin\Debug\BaiTap10.exe
+E:\Code\Visual Studio File\BaiTapThucHanhLTTQ-Tuan5\BaiTap10\bin\Debug\BaiTap10.pdb
+E:\Code\Visual Studio File\BaiTapThucHanhLTTQ-Tuan5\BaiTap10\obj\Debug\BaiTap10.csproj.AssemblyReference.cache
+E:\Code\Visual Studio File\BaiTapThucHanhLTTQ-Tuan5\BaiTap10\obj\Debug\BaiTap10.frmPenDemo.resources
+E:\Code\Visual Studio File\BaiTapThucHanhLTTQ-Tuan5\BaiTap10\obj\Debug\BaiTap10.Properties.Resources.resources
+E:\Code\Visual Studio File\BaiTapThucHanhLTTQ-Tuan5\BaiTap10\obj\Debug\BaiTap10.csproj.GenerateResource.cache
+E:\Code\Visual Studio File\BaiTapThucHanhLTTQ-Tuan5\BaiTap10\obj\Debug\BaiTap10.csproj.CoreCompileInputs.cache
+E:\Code\Visual Studio File\BaiTapThucHanhLTTQ-Tuan5\BaiTap10\obj\Debug\BaiTap10.exe
+E:\Code\Visual Studio File\BaiTapThucHanhLTTQ-Tuan5\BaiTap10\obj\Debug\BaiTap10.pdb
+E:\Code\Visual Studio File\BaiTapThucHanhLTTQ-Tuan5\BaiTap10\obj\Debug\BaiTap10.exe.config
