@@ -216,6 +216,7 @@
             this.Name = "frmPenDemo";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Pen Demo";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.frmPenDemo_FormClosing);
             this.Load += new System.EventHandler(this.frmPenDemo_Load);
             this.panelControls.Panel1.ResumeLayout(false);
             this.panelControls.Panel1.PerformLayout();

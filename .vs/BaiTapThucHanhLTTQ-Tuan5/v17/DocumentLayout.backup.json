@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "E:\\Code\\Visual Studio File\\BaiTapThucHanhLTTQ-Tuan5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8620FA1D-858B-4A8B-92B6-06CF9D3D2845}|BaiTap11\\BaiTap11.csproj|E:\\Code\\Visual Studio File\\BaiTapThucHanhLTTQ-Tuan5\\baitap11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8620FA1D-858B-4A8B-92B6-06CF9D3D2845}|BaiTap11\\BaiTap11.csproj|solutionrelative:baitap11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE5AB72C-BDB1-4AF1-BADD-0558FE153574}|BaiTap4\\BaiTap4.csproj|e:\\code\\visual studio file\\baitapthuchanhlttq-tuan5\\baitap4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE5AB72C-BDB1-4AF1-BADD-0558FE153574}|BaiTap4\\BaiTap4.csproj|solutionrelative:baitap4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6CFCEB9-613A-4DD3-9865-11AA499BD0FA}|BaiTap10\\BaiTap10.csproj|e:\\code\\visual studio file\\baitapthuchanhlttq-tuan5\\baitap10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6CFCEB9-613A-4DD3-9865-11AA499BD0FA}|BaiTap10\\BaiTap10.csproj|solutionrelative:baitap10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8620FA1D-858B-4A8B-92B6-06CF9D3D2845}|BaiTap11\\BaiTap11.csproj|e:\\code\\visual studio file\\baitapthuchanhlttq-tuan5\\baitap11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -22,44 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 407,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "E:\\Code\\Visual Studio File\\BaiTapThucHanhLTTQ-Tuan5\\BaiTap4\\Form1.cs",
-              "RelativeDocumentMoniker": "BaiTap4\\Form1.cs",
-              "ToolTip": "E:\\Code\\Visual Studio File\\BaiTapThucHanhLTTQ-Tuan5\\BaiTap4\\Form1.cs",
-              "RelativeToolTip": "BaiTap4\\Form1.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T18:36:49.539Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "E:\\Code\\Visual Studio File\\BaiTapThucHanhLTTQ-Tuan5\\BaiTap11\\Form1.cs",
-              "RelativeDocumentMoniker": "BaiTap11\\Form1.cs",
-              "ToolTip": "E:\\Code\\Visual Studio File\\BaiTapThucHanhLTTQ-Tuan5\\BaiTap11\\Form1.cs",
-              "RelativeToolTip": "BaiTap11\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\Code\\Visual Studio File\\BaiTapThucHanhLTTQ-Tuan5\\BaiTap10\\Form1.cs",
+              "RelativeDocumentMoniker": "BaiTap10\\Form1.cs",
+              "ToolTip": "E:\\Code\\Visual Studio File\\BaiTapThucHanhLTTQ-Tuan5\\BaiTap10\\Form1.cs [Design]",
+              "RelativeToolTip": "BaiTap10\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T18:14:15.442Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-18T14:05:33.612Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "E:\\Code\\Visual Studio File\\BaiTapThucHanhLTTQ-Tuan5\\BaiTap11\\Form1.cs",
               "RelativeDocumentMoniker": "BaiTap11\\Form1.cs",
               "ToolTip": "E:\\Code\\Visual Studio File\\BaiTapThucHanhLTTQ-Tuan5\\BaiTap11\\Form1.cs [Design]",
               "RelativeToolTip": "BaiTap11\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T17:40:23.67Z",
+              "WhenOpened": "2025-12-18T13:54:40.276Z",
               "EditorCaption": " [Design]"
             }
           ]

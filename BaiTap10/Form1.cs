@@ -79,5 +79,19 @@ namespace BaiTap10
                 g.DrawLines(demoPen, points);
             }
         }
+
+        private void frmPenDemo_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            DialogResult result = MessageBox.Show(
+            "Bạn có chắc chắn muốn thoát chương trình?",
+            "Xác nhận thoát",
+            MessageBoxButtons.YesNo,
+            MessageBoxIcon.Question
+            );
+            if (result == DialogResult.No)
+            {
+                e.Cancel = true;
+            }
+        }
     }
 }
